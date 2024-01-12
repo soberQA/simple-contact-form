@@ -5,6 +5,8 @@
  * Description: Plugin for my custom contact form
  * Version: 1.0.0
  * Text Domain: contact-plugin
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * 
  */
 
