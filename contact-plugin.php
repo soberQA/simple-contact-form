@@ -1,7 +1,7 @@
 <?php
 /**
  * 
- * Plugin name: Contact Plugin
+ * Plugin name: Contact Form Plugin
  * Description: Plugin for my custom contact form
  * Version: 1.0.0
  * Text Domain: contact-plugin
